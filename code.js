@@ -20,7 +20,7 @@ function helloWorld() {
 // }
 
 
-// exercise 8
+// exercise 9
 function sayHello(input) {
     if (input === true || input === false)
         return "Hello, World!"
