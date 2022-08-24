@@ -28,3 +28,10 @@ function sayHello(input) {
     return "Hello, " + input + "!";
 }
 
+
+// exercise 10
+function isFive(input) {
+    return input;
+}
+
+
